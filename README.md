@@ -1,3 +1,7 @@
+# Udemy [Build Web Apps with Vue JS 2 & Firebase] (https://www.udemy.com/build-web-apps-with-vuejs-firebase/) course
+
+This is a CRUD app (update part still to be finished!!!)
+
 # ninja-smoothies
 
 > A Vue.js project
